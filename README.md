@@ -1,3 +1,7 @@
+# Project Comments
+Overall good, be sure to separate out the individual test methods to their own methods. Not only does this make it more readable, but it also enables you to use start/stopTest for each test, ensuring your governor limits properly work. In general, make your code more modular so that it is simpler to read and maintain instead of stuffing as much as possible in a single class/method.
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.

@@ -1,2 +1,4 @@
 # Project Comments
-For what's there, it's not bad. Obviously include the missing trigger. 
+For what's there, it's not as bad as it could have been. Obviously rushed and needs to include the missing trigger.
+
+Functionality is quite bare
